@@ -5,7 +5,7 @@
 #                                                                                                  #
 #                                                                                                  #
 #                        Created by Adam/adamgnaa on Discord                                       #
-#                                                                                                  #
+#                        Roblox Profile: https://www.roblox.com/users/131491226/profile            #
 #                        Credits to Trickster and GNAA for original discord Jerome                 #
 #                        discord.gg/gnaa                                                           #
 #                        discord.gg/Ct3fAdH672  for Help                                           #
