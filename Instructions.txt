@@ -1,0 +1,69 @@
+# INSTRUCTIONS
+
+####################################################################################################
+
+#Step 1
+
+# Download VoiceMeeter Banana and VB virtual audio cable
+# so other people can hear and speak to Jerome in voice chat
+# If you want a youtube tutorial (not mine), here: https://www.youtube.com/watch?v=LFNR5UM8890
+
+#LINKS:
+
+# https://vb-audio.com/Voicemeeter/banana.htm
+# https://vb-audio.com/Cable/
+
+# Step 2
+
+# Run virtual audio cable app and click Install or something similar to that, it will just show a button to install it.
+# Do the same with VoiceMeeter Banana
+
+# Step 3
+
+# Go to sound settings on Windows
+# Change input device on your computer to VoiceMeeter Output
+# Change output device to VoiceMeeter Input
+
+# Step 4
+
+# Go to Sound Control Panel (windows 10 | windows 11 should either be more sound settings or advanced sound settings)
+# Go to your active input and output devices and select Properties
+# Go to advanced tab and uncheck "Allow applications to take exclusive control of this device", do this for all of your active devices including voicemeeter and virtual audio cable stuff
+
+
+# Step 5
+
+# Open VoiceMeeter Banana (if not already opened)
+# Change stereo input 1 to your microphone device
+# Change stereo input 2 to Cable Output (VB-Audio..)
+# Change Hardware Out to your headphones or speaker
+
+# Step 6
+
+# Install Python 3.11 if not already installed, I personally install it from Microsoft Store as its easier for me.
+
+# Step 7
+
+# Install visual studio code if not already installed
+# https://code.visualstudio.com/
+# Once downloaded, open it and create a new folder, then create a file in that folder called "Jerome.py" or whatever you would like to name it.
+# Paste this code into the Jerome.py file.
+# Run the code.
+
+
+# Step 8
+
+# Get a Gemini API Key
+# https://ai.google.dev/gemini-api (it's free!)
+# Once you have the key, save it to a .txt file
+# Paste your key into the input when the code is running.
+
+# Step 9
+
+# Make sure your input and output devices are correct
+# Speak to Jerome through your microphone, make sure you are in Roblox and it is a active window.
+
+# Step 10
+
+# If you want yourself to speak to Jerome only, change output device in Roblox to your headphones and not VoiceMeeter Input.
+# If you want other people to speak to Jerome, dont change output device in Roblox if its VoiceMeeter Input already.
