@@ -1,0 +1,3 @@
+Install script:
+
+pip install speech_recognition pyttsx3 google-generativeai keyboard pyautogui better_profanity
