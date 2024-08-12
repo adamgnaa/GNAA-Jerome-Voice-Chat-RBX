@@ -10,7 +10,7 @@ Step 2: Configure Audio Settings in Windows
 Open Sound Settings:
 Right-click the sound icon in the system tray and select "Open Sound settings".
 Change Input and Output Devices:
-Set your Input device to "VoiceMeeter Output (VB-Audio VoiceMeeter VAIO)".
+Set your Input device to "VoiceMeeter Out B1".
 Set your Output device to "VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)".
 Step 3: Adjust Sound Control Panel Settings
 Open Sound Control Panel:
