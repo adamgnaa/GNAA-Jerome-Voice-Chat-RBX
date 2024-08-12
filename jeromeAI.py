@@ -39,7 +39,7 @@
 # Step 3
 
 # Go to sound settings on Windows
-# Change input device on your computer to VoiceMeeter Output
+# Change input device on your computer to VoiceMeeter Out B1
 # Change output device to VoiceMeeter Input
 
 # Step 4
@@ -55,6 +55,7 @@
 # Change stereo input 1 to your microphone device
 # Change stereo input 2 to Cable Output (VB-Audio..)
 # Change Hardware Out to your headphones or speaker
+# Put stereo input 1 on B1, same with stereo input 2
 
 # Step 6
 
@@ -85,6 +86,7 @@
 
 # If you want yourself to speak to Jerome only, change output device in Roblox to your headphones and not VoiceMeeter Input.
 # If you want other people to speak to Jerome, dont change output device in Roblox if its VoiceMeeter Input already.
+
 
 ####################################################################################################
 
